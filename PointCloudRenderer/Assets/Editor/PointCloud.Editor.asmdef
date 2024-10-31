@@ -1,0 +1,16 @@
+{
+    "name": "PointCloud.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fdccdaf8a145fec41af5640dd19333f2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

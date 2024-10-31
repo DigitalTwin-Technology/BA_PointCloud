@@ -1,0 +1,16 @@
+{
+  "name": "com.dtt.point-cloud-renderer",
+  "version": "1.6.0",
+  "displayName": "BA PointCloud Renderer",
+  "description": "Project files for my bachelor thesis on rendering large point clouds in Unity.",
+  "documentationUrl": "https://github.com/SFraissTU/BA_PointCloud",
+ "keywords": [
+    "pointcloud",
+    "potree"
+  ],
+  "author": {
+    "name": "Simon Maximilian Fraiss (SFraissTU)",
+    "email": "simon.fraiss@gmx.at",
+    "url": "https://github.com/SFraissTU"
+  }
+}
